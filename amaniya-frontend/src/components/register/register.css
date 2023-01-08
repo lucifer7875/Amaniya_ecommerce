@@ -1,0 +1,9 @@
+.logoOfWeb{
+    width: 221px;
+    height: 140px;
+}
+.footerDiv{
+    background-color: gray;
+    position: absolute;
+    width: 100%;
+}

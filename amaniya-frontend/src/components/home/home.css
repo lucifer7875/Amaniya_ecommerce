@@ -1,0 +1,39 @@
+.logoImg{
+    width: 120px;
+}
+.flexDiv12{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.flexCard{
+padding: 10px;
+margin: 0px 20px 0px 0px;
+}
+.mySlides{
+    width: 180px;
+    height: 250px;
+}
+.Slider{
+   margin: -5px 0px 0px 0px;
+    height: 400px;
+   
+    
+}
+.itemsOfAll{
+    margin: -80px 0px 0px 0px;
+    background-color:#cbc9c954 ;
+}
+.itemsOf{
+    background-color:#cbc9c954 ;
+
+}
+.gifImg{
+    box-shadow: 0px 6px 11px 1px black;
+    margin: 10px 0px 20px 400px;
+    border-radius: 30px;
+}
+.gifImg1{
+ 
+    margin: 10px 0px 20px 300px;
+}

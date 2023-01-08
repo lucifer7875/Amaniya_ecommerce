@@ -1,0 +1,21 @@
+.Login{
+    margin-left: 20px;
+    padding: 20px;
+}
+.flexDiv{
+    display: flex;
+    margin: -700px 0px 0px 400px;
+    background-color: rgba(0, 0, 0, 0.566);
+    width: 850px;
+    border-radius: 16px;
+    position: absolute;
+    
+}
+#btn{
+width: 350px;
+}
+.footerDiv2{
+    margin: -200px 0px 0px 0px;
+    position: absolute;
+    width: 100%;
+}

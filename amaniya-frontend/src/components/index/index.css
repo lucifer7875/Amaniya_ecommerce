@@ -1,0 +1,52 @@
+.barContent{
+    background-color: rgba(0, 0, 0, 0.607);
+    font-size: large;
+    padding: 10px;
+    color: white;
+}
+.tab{
+    margin-left: 40px;
+}
+.cart{
+    margin-left: 450px;
+}
+.Div2{
+  justify-content: flex-start;
+}
+.card1{
+    margin-top: -274px;
+    position: absolute;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+ }
+ .Flex{
+    display: flex;
+    padding: 10px;
+ }
+ .cardImg{
+    width: 400px;
+    padding: 10px;
+ }
+ .contentCard{
+    width: 400px;
+    margin-left: 50px;
+ }
+.input-group{
+    width: 350px;
+    
+}
+.loginForm{
+    position: absolute;
+    margin-top: 10%;
+   backdrop-filter: blur(5px);
+}
+.title{
+    font-size: large;
+   margin-left: 145px;
+   margin-bottom: 10px;
+}
+
+.PageContent{
+    position: absolute;
+}
